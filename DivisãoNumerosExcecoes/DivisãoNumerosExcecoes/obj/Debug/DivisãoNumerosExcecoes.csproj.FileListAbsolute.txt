@@ -1,0 +1,8 @@
+C:\Users\20251038060006\source\repos\DivisãoNumerosExcecoes\DivisãoNumerosExcecoes\obj\Debug\DivisãoNumerosExcecoes.csproj.AssemblyReference.cache
+C:\Users\20251038060006\source\repos\DivisãoNumerosExcecoes\DivisãoNumerosExcecoes\obj\Debug\DivisãoNumerosExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\DivisãoNumerosExcecoes\DivisãoNumerosExcecoes\bin\Debug\DivisãoNumerosExcecoes.exe.config
+C:\Users\20251038060006\source\repos\DivisãoNumerosExcecoes\DivisãoNumerosExcecoes\bin\Debug\DivisãoNumerosExcecoes.exe
+C:\Users\20251038060006\source\repos\DivisãoNumerosExcecoes\DivisãoNumerosExcecoes\bin\Debug\DivisãoNumerosExcecoes.pdb
+C:\Users\20251038060006\source\repos\DivisãoNumerosExcecoes\DivisãoNumerosExcecoes\obj\Debug\DivisãoNumerosExcecoes.exe
+C:\Users\20251038060006\source\repos\DivisãoNumerosExcecoes\DivisãoNumerosExcecoes\obj\Debug\DivisãoNumerosExcecoes.pdb
+C:\Users\20251038060006\source\repos\DivisãoNumerosExcecoes\DivisãoNumerosExcecoes\obj\Debug\DivisãoNumerosExcecoes.exe.config
