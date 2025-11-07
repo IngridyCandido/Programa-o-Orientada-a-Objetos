@@ -1,0 +1,8 @@
+C:\Users\20251038060006\source\repos\AulaExecucao\AulaExecucao\obj\Debug\AulaExecucao.csproj.AssemblyReference.cache
+C:\Users\20251038060006\source\repos\AulaExecucao\AulaExecucao\obj\Debug\AulaExecucao.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\AulaExecucao\AulaExecucao\bin\Debug\AulaExecucao.exe.config
+C:\Users\20251038060006\source\repos\AulaExecucao\AulaExecucao\bin\Debug\AulaExecucao.exe
+C:\Users\20251038060006\source\repos\AulaExecucao\AulaExecucao\bin\Debug\AulaExecucao.pdb
+C:\Users\20251038060006\source\repos\AulaExecucao\AulaExecucao\obj\Debug\AulaExecucao.exe
+C:\Users\20251038060006\source\repos\AulaExecucao\AulaExecucao\obj\Debug\AulaExecucao.pdb
+C:\Users\20251038060006\source\repos\AulaExecucao\AulaExecucao\obj\Debug\AulaExecucao.exe.config

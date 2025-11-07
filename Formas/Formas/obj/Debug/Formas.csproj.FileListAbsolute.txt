@@ -1,0 +1,2 @@
+C:\Users\20251038060006\source\repos\Formas\Formas\obj\Debug\Formas.csproj.AssemblyReference.cache
+C:\Users\20251038060006\source\repos\Formas\Formas\obj\Debug\Formas.csproj.CoreCompileInputs.cache
