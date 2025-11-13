@@ -1,0 +1,8 @@
+C:\Users\20251038060006\source\repos\Arquivos\Arquivos\obj\Debug\Arquivos.csproj.AssemblyReference.cache
+C:\Users\20251038060006\source\repos\Arquivos\Arquivos\obj\Debug\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\Arquivos\Arquivos\bin\Debug\Arquivos.exe.config
+C:\Users\20251038060006\source\repos\Arquivos\Arquivos\bin\Debug\Arquivos.exe
+C:\Users\20251038060006\source\repos\Arquivos\Arquivos\bin\Debug\Arquivos.pdb
+C:\Users\20251038060006\source\repos\Arquivos\Arquivos\obj\Debug\Arquivos.exe
+C:\Users\20251038060006\source\repos\Arquivos\Arquivos\obj\Debug\Arquivos.pdb
+C:\Users\20251038060006\source\repos\Arquivos\Arquivos\obj\Debug\Arquivos.exe.config
