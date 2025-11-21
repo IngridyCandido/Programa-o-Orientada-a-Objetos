@@ -1,0 +1,8 @@
+C:\Users\20251038060006\source\repos\AulaPOOSerializacaoObjetoXML\AulaPOOSerializacaoObjetoXML\bin\Debug\AulaPOOSerializacaoObjetoXML.exe.config
+C:\Users\20251038060006\source\repos\AulaPOOSerializacaoObjetoXML\AulaPOOSerializacaoObjetoXML\bin\Debug\AulaPOOSerializacaoObjetoXML.exe
+C:\Users\20251038060006\source\repos\AulaPOOSerializacaoObjetoXML\AulaPOOSerializacaoObjetoXML\bin\Debug\AulaPOOSerializacaoObjetoXML.pdb
+C:\Users\20251038060006\source\repos\AulaPOOSerializacaoObjetoXML\AulaPOOSerializacaoObjetoXML\obj\Debug\AulaPOOSerializacaoObjetoXML.csproj.AssemblyReference.cache
+C:\Users\20251038060006\source\repos\AulaPOOSerializacaoObjetoXML\AulaPOOSerializacaoObjetoXML\obj\Debug\AulaPOOSerializacaoObjetoXML.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\AulaPOOSerializacaoObjetoXML\AulaPOOSerializacaoObjetoXML\obj\Debug\AulaPOOSerializacaoObjetoXML.exe
+C:\Users\20251038060006\source\repos\AulaPOOSerializacaoObjetoXML\AulaPOOSerializacaoObjetoXML\obj\Debug\AulaPOOSerializacaoObjetoXML.pdb
+C:\Users\20251038060006\source\repos\AulaPOOSerializacaoObjetoXML\AulaPOOSerializacaoObjetoXML\obj\Debug\AulaPOOSerializacaoObjetoXML.exe.config
