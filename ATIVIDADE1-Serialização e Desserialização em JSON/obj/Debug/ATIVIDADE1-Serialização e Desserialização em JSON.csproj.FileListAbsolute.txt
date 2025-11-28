@@ -1,0 +1,27 @@
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\obj\Debug\ATIVIDADE1-Serialização e Desserialização em JSON.csproj.AssemblyReference.cache
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\obj\Debug\ATIVIDADE1-Serialização e Desserialização em JSON.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\ATIVIDADE1-Serialização e Desserialização em JSON.exe.config
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\ATIVIDADE1-Serialização e Desserialização em JSON.exe
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\ATIVIDADE1-Serialização e Desserialização em JSON.pdb
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Buffers.dll
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.IO.Pipelines.dll
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Memory.dll
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Text.Json.dll
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Buffers.xml
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.IO.Pipelines.xml
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Memory.xml
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Text.Json.xml
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\obj\Debug\ATIVIDAD.22811384.Up2Date
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\obj\Debug\ATIVIDADE1-Serialização e Desserialização em JSON.exe
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\obj\Debug\ATIVIDADE1-Serialização e Desserialização em JSON.pdb
+C:\Users\20251038060006\source\repos\ATIVIDADE1-Serialização e Desserialização em JSON\ATIVIDADE1-Serialização e Desserialização em JSON\obj\Debug\ATIVIDADE1-Serialização e Desserialização em JSON.exe.config
