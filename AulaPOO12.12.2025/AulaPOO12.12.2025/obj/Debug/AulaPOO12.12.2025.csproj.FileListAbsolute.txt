@@ -1,0 +1,9 @@
+C:\Users\20251038060006\source\repos\AulaPOO12.12.2025\AulaPOO12.12.2025\bin\Debug\AulaPOO12.12.2025.exe.config
+C:\Users\20251038060006\source\repos\AulaPOO12.12.2025\AulaPOO12.12.2025\bin\Debug\AulaPOO12.12.2025.exe
+C:\Users\20251038060006\source\repos\AulaPOO12.12.2025\AulaPOO12.12.2025\bin\Debug\AulaPOO12.12.2025.pdb
+C:\Users\20251038060006\source\repos\AulaPOO12.12.2025\AulaPOO12.12.2025\obj\Debug\AulaPOO12.12.2025.csproj.AssemblyReference.cache
+C:\Users\20251038060006\source\repos\AulaPOO12.12.2025\AulaPOO12.12.2025\obj\Debug\AulaPOO12._12._2025.Properties.Resources.resources
+C:\Users\20251038060006\source\repos\AulaPOO12.12.2025\AulaPOO12.12.2025\obj\Debug\AulaPOO12.12.2025.csproj.GenerateResource.cache
+C:\Users\20251038060006\source\repos\AulaPOO12.12.2025\AulaPOO12.12.2025\obj\Debug\AulaPOO12.12.2025.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\AulaPOO12.12.2025\AulaPOO12.12.2025\obj\Debug\AulaPOO12.12.2025.exe
+C:\Users\20251038060006\source\repos\AulaPOO12.12.2025\AulaPOO12.12.2025\obj\Debug\AulaPOO12.12.2025.pdb
