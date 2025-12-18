@@ -1,0 +1,12 @@
+C:\Users\20251038060006\source\repos\AulaPOOMultiJanelas\AulaPOOMultiJanelas\bin\Debug\AulaPOOMultiJanelas.exe.config
+C:\Users\20251038060006\source\repos\AulaPOOMultiJanelas\AulaPOOMultiJanelas\bin\Debug\AulaPOOMultiJanelas.exe
+C:\Users\20251038060006\source\repos\AulaPOOMultiJanelas\AulaPOOMultiJanelas\bin\Debug\AulaPOOMultiJanelas.pdb
+C:\Users\20251038060006\source\repos\AulaPOOMultiJanelas\AulaPOOMultiJanelas\obj\Debug\AulaPOOMultiJanelas.csproj.AssemblyReference.cache
+C:\Users\20251038060006\source\repos\AulaPOOMultiJanelas\AulaPOOMultiJanelas\obj\Debug\AulaPOOMultiJanelas.Form1.resources
+C:\Users\20251038060006\source\repos\AulaPOOMultiJanelas\AulaPOOMultiJanelas\obj\Debug\AulaPOOMultiJanelas.Properties.Resources.resources
+C:\Users\20251038060006\source\repos\AulaPOOMultiJanelas\AulaPOOMultiJanelas\obj\Debug\AulaPOOMultiJanelas.csproj.GenerateResource.cache
+C:\Users\20251038060006\source\repos\AulaPOOMultiJanelas\AulaPOOMultiJanelas\obj\Debug\AulaPOOMultiJanelas.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\AulaPOOMultiJanelas\AulaPOOMultiJanelas\obj\Debug\AulaPOOMultiJanelas.exe
+C:\Users\20251038060006\source\repos\AulaPOOMultiJanelas\AulaPOOMultiJanelas\obj\Debug\AulaPOOMultiJanelas.pdb
+C:\Users\20251038060006\source\repos\AulaPOOMultiJanelas\AulaPOOMultiJanelas\obj\Debug\AulaPOOMultiJanelas.exe.config
+C:\Users\20251038060006\source\repos\AulaPOOMultiJanelas\AulaPOOMultiJanelas\obj\Debug\AulaPOOMultiJanelas.FrmNovaJanela.resources
