@@ -1,0 +1,11 @@
+C:\Users\20251038060006\source\repos\AulaPOOGridView\AulaPOOGridView\bin\Debug\AulaPOOGridView.exe.config
+C:\Users\20251038060006\source\repos\AulaPOOGridView\AulaPOOGridView\bin\Debug\AulaPOOGridView.exe
+C:\Users\20251038060006\source\repos\AulaPOOGridView\AulaPOOGridView\bin\Debug\AulaPOOGridView.pdb
+C:\Users\20251038060006\source\repos\AulaPOOGridView\AulaPOOGridView\obj\Debug\AulaPOOGridView.csproj.AssemblyReference.cache
+C:\Users\20251038060006\source\repos\AulaPOOGridView\AulaPOOGridView\obj\Debug\AulaPOOGridView.Form1.resources
+C:\Users\20251038060006\source\repos\AulaPOOGridView\AulaPOOGridView\obj\Debug\AulaPOOGridView.Properties.Resources.resources
+C:\Users\20251038060006\source\repos\AulaPOOGridView\AulaPOOGridView\obj\Debug\AulaPOOGridView.csproj.GenerateResource.cache
+C:\Users\20251038060006\source\repos\AulaPOOGridView\AulaPOOGridView\obj\Debug\AulaPOOGridView.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\AulaPOOGridView\AulaPOOGridView\obj\Debug\AulaPOOGridView.exe
+C:\Users\20251038060006\source\repos\AulaPOOGridView\AulaPOOGridView\obj\Debug\AulaPOOGridView.pdb
+C:\Users\20251038060006\source\repos\AulaPOOGridView\AulaPOOGridView\obj\Debug\AulaPOOGridView.exe.config
