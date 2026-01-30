@@ -1,0 +1,11 @@
+C:\Users\20251038060006\source\repos\Locadora\Locadora\obj\Debug\Locadora.csproj.AssemblyReference.cache
+C:\Users\20251038060006\source\repos\Locadora\Locadora\obj\Debug\Locadora.Form1.resources
+C:\Users\20251038060006\source\repos\Locadora\Locadora\obj\Debug\Locadora.ListadeFilmes.resources
+C:\Users\20251038060006\source\repos\Locadora\Locadora\obj\Debug\Locadora.Properties.Resources.resources
+C:\Users\20251038060006\source\repos\Locadora\Locadora\obj\Debug\Locadora.csproj.GenerateResource.cache
+C:\Users\20251038060006\source\repos\Locadora\Locadora\obj\Debug\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\Locadora\Locadora\bin\Debug\Locadora.exe.config
+C:\Users\20251038060006\source\repos\Locadora\Locadora\bin\Debug\Locadora.exe
+C:\Users\20251038060006\source\repos\Locadora\Locadora\bin\Debug\Locadora.pdb
+C:\Users\20251038060006\source\repos\Locadora\Locadora\obj\Debug\Locadora.exe
+C:\Users\20251038060006\source\repos\Locadora\Locadora\obj\Debug\Locadora.pdb
