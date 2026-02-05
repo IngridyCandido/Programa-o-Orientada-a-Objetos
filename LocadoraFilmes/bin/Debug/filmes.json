@@ -1,0 +1,178 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "O Poderoso Chefão",
+    "Genero": "Drama/Crime",
+    "Ano": 1972,
+    "Disponivel": true,
+    "Diretor": "Francis Ford Coppola"
+  },
+  {
+    "Id": 2,
+    "Titulo": "De Volta para o Futuro",
+    "Genero": "Aventura/Ficção",
+    "Ano": 1985,
+    "Disponivel": true,
+    "Diretor": "Robert Zemeckis"
+  },
+  {
+    "Id": 3,
+    "Titulo": "Clube da Luta",
+    "Genero": "Drama",
+    "Ano": 1999,
+    "Disponivel": true,
+    "Diretor": "David Fincher"
+  },
+  {
+    "Id": 4,
+    "Titulo": "A Viagem de Chihiro",
+    "Genero": "Animação/Fantasia",
+    "Ano": 2001,
+    "Disponivel": true,
+    "Diretor": "Hayao Miyazaki"
+  },
+  {
+    "Id": 5,
+    "Titulo": "Os Vingadores",
+    "Genero": "Ação/Sci-Fi",
+    "Ano": 2012,
+    "Disponivel": true,
+    "Diretor": "Joss Whedon"
+  },
+  {
+    "Id": 6,
+    "Titulo": "O Diario de uma paixão",
+    "Genero": "Drama",
+    "Ano": 2004,
+    "Disponivel": true,
+    "Diretor": "Nick Cassavetes"
+  },
+  {
+    "Id": 7,
+    "Titulo": "Crepúsculo",
+    "Genero": "Drama",
+    "Ano": 2008,
+    "Disponivel": true,
+    "Diretor": "Catherine Harwicke"
+  },
+  {
+    "Id": 8,
+    "Titulo": "Lua Nova",
+    "Genero": "Drama",
+    "Ano": 2009,
+    "Disponivel": true,
+    "Diretor": "Chris Weitz"
+  },
+  {
+    "Id": 9,
+    "Titulo": "Eclipse",
+    "Genero": "Drama",
+    "Ano": 2010,
+    "Disponivel": true,
+    "Diretor": "David Slade"
+  },
+  {
+    "Id": 10,
+    "Titulo": "Amanhecer parte I",
+    "Genero": "Drama",
+    "Ano": 2011,
+    "Disponivel": true,
+    "Diretor": "Bill Condon"
+  },
+  {
+    "Id": 11,
+    "Titulo": "Amanhecer parte II",
+    "Genero": "Drama",
+    "Ano": 2012,
+    "Disponivel": true,
+    "Diretor": "Bill Condon"
+  },
+  {
+    "Id": 12,
+    "Titulo": "O Lar das crianças Peculiares",
+    "Genero": "Ficção Científica",
+    "Ano": 2016,
+    "Disponivel": true,
+    "Diretor": "Tim Burton"
+  },
+  {
+    "Id": 13,
+    "Titulo": "Donzela",
+    "Genero": "Ação",
+    "Ano": 2024,
+    "Disponivel": true,
+    "Diretor": "Juan Carlos Fresnadillo"
+  },
+  {
+    "Id": 14,
+    "Titulo": "Como treinar o seu dragão 1",
+    "Genero": "Filmes para a família",
+    "Ano": 2010,
+    "Disponivel": true,
+    "Diretor": "Dean DeBlois"
+  },
+  {
+    "Id": 15,
+    "Titulo": "Como treinar o seu dragão 2",
+    "Genero": "Filmes para a família",
+    "Ano": 2014,
+    "Disponivel": true,
+    "Diretor": "Dean DeBlois"
+  },
+  {
+    "Id": 16,
+    "Titulo": "Como treinar o seu dragão 3",
+    "Genero": "Filmes para a família",
+    "Ano": 2019,
+    "Disponivel": true,
+    "Diretor": "Dean DeBlois"
+  },
+  {
+    "Id": 17,
+    "Titulo": "Ela é demais",
+    "Genero": "Comédia Romântica",
+    "Ano": 1999,
+    "Disponivel": true,
+    "Diretor": "Robert Iscove"
+  },
+  {
+    "Id": 18,
+    "Titulo": "A barraca do beijo",
+    "Genero": "Comédia Romântica",
+    "Ano": 2018,
+    "Disponivel": true,
+    "Diretor": "Vince Marcello"
+  },
+  {
+    "Id": 19,
+    "Titulo": "Para todos os garotos que já amei",
+    "Genero": "Comédia Romântica",
+    "Ano": 2018,
+    "Disponivel": true,
+    "Diretor": "Susan Johnson"
+  },
+  {
+    "Id": 20,
+    "Titulo": "Com carinho, Kitty",
+    "Genero": "Drama",
+    "Ano": 2025,
+    "Disponivel": true,
+    "Diretor": "Jenny Han"
+  },
+  {
+    "Id": 26,
+    "Titulo": "Oi",
+    "Genero": "TERROR",
+    "Ano": 2026,
+    "Disponivel": true,
+    "Diretor": "EU"
+  },
+  {
+    "Id": 26,
+    "Titulo": "JOSE",
+    "Genero": "DRAMA",
+    "Ano": 2006,
+    "Disponivel": true,
+    "Diretor": "DARLENE"
+  }
+]

@@ -1,0 +1,140 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Locadora
+{
+    public partial class CadastrodeFilmes : Form
+    {
+        private List<Filmes> filmes = new List<Filmes>();
+
+        public CadastrodeFilmes()
+        {
+            InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // Validar Id
+                if (string.IsNullOrWhiteSpace(textBox1.Text) || !int.TryParse(textBox1.Text.Trim(), out int id))
+                {
+                    MessageBox.Show("Id inválido. Informe um número inteiro.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    textBox1.Focus();
+                    return;
+                }
+
+                // Validar Título
+                if (string.IsNullOrWhiteSpace(textBox2.Text))
+                {
+                    MessageBox.Show("Informe o título do filme.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    textBox2.Focus();
+                    return;
+                }
+
+                // Validar Ano
+                if (string.IsNullOrWhiteSpace(textBox3.Text) || !int.TryParse(textBox3.Text.Trim(), out int ano))
+                {
+                    MessageBox.Show("Ano inválido. Informe um número inteiro para o ano.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    textBox4.Focus();
+                    return;
+                }
+
+                // Verificar duplicidade de Id
+                if (filmes.Any(f => f.Id == id))
+                {
+                    MessageBox.Show("Já existe um filme cadastrado com este Id.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    textBox1.Focus();
+                    return;
+                }
+
+                // Criar e adicionar filme
+                var filme = new Filmes
+                {
+                    Id = id,
+                    Titulo = textBox2.Text.Trim(),
+                    Genero = textBox4?.Text?.Trim(),
+                    Ano = ano,
+                    Diretor = textBox5?.Text?.Trim(),
+                    Disponivel = checkBox1.Checked
+                };
+
+                filmes.Add(filme);
+                BDFilmes.AdicionarFilme(filme);
+
+                MessageBox.Show("Filme cadastrado com sucesso!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                LimparCampos();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Ocorreu um erro ao cadastrar o filme: " + ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        // Método adicionado para limpar os campos do formulário
+        private void LimparCampos()
+        {
+            if (textBox1 != null) textBox1.Clear();
+            if (textBox2 != null) textBox2.Clear();
+            if (textBox3 != null) textBox3.Clear();
+            if (textBox4 != null) textBox4.Clear();
+            if (textBox5 != null) textBox5.Clear();
+
+            if (checkBox1 != null) checkBox1.Checked = false;
+
+            if (textBox1 != null) textBox1.Focus();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // Validar Id
+                if (string.IsNullOrWhiteSpace(textBox1.Text) || !int.TryParse(textBox1.Text.Trim(), out int id))
+                {
+                    MessageBox.Show("Id inválido. Informe um número inteiro.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    textBox1.Focus();
+                    return;
+                }
+
+                // Buscar filme pelo Id
+                var filme = filmes.FirstOrDefault(f => f.Id == id);
+                if (filme == null)
+                {
+                    MessageBox.Show("Nenhum filme encontrado com este Id.", "Informação", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    textBox1.Focus();
+                    return;
+                }
+
+                // Confirmar exclusão
+                var confirm = MessageBox.Show($"Confirma exclusão do filme \"{filme.Titulo}\" (Id: {filme.Id})?", "Confirmar exclusão", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (confirm != DialogResult.Yes)
+                    return;
+
+                // Remover e notificar
+                filmes.Remove(filme);
+                BDFilmes.ExcluirFilme(id);
+                MessageBox.Show("Filme excluído com sucesso.", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                LimparCampos();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Ocorreu um erro ao excluir o filme: " + ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+    }
+}
